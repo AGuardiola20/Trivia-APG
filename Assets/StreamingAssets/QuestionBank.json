@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "Cual es la capital de Costa Rica",
+        "respuestas": [
+          { "texto": "San Jose" },
+          { "texto": "Heredia" },
+          { "texto": "Puntarenas" },
+          { "texto": "Cartago" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cual es la capital de Colombia",
+        "respuestas": [
+          { "texto": "Medellin" },
+          { "texto": "Santa Marta" },
+          { "texto": "Bogota" },
+          { "texto": "Bucaramanga" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Cual es la capital de Uruguay",
+        "respuestas": [
+          { "texto": "Maldonado" },
+          { "texto": "Trinidad" },
+          { "texto": "Rivera" },
+          { "texto": "Montevideo" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Cual es la capital de Chile",
+        "respuestas": [
+          { "texto": "Valparaiso" },
+          { "texto": "Santiago" },
+          { "texto": "Arica" },
+          { "texto": "Concepcion" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Quien escribio La Odisea",
+        "respuestas": [
+          { "texto": "Homero" },
+          { "texto": "La Roca" },
+          { "texto": "Andres" },
+          { "texto": "Joaquin Fenix" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "Cual es el rio mas largo del mundo",
+        "respuestas": [
+          { "texto": "Rio Pacuare" },
+          { "texto": "Rio Nilo" },
+          { "texto": "Rio Amazonas" },
+          { "texto": "Rio San Juan" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Como se llama la Reina del Reino Unido",
+        "respuestas": [
+          { "texto": "Isabel II" },
+          { "texto": "Maria I" },
+          { "texto": "Nathaly III" },
+          { "texto": "Isabel IV" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cuando acabo la segunda guerra mundial",
+        "respuestas": [
+          { "texto": "1917" },
+          { "texto": "1989" },
+          { "texto": "1589" },
+          { "texto": "1945" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Quien es el autor de el Quijote",
+        "respuestas": [
+          { "texto": "Homero" },
+          { "texto": "Chris Hemsworth" },
+          { "texto": "Ana Frank" },
+          { "texto": "Miguel de Cervantes" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "En que pais se encuentra la torre Pisa",
+        "respuestas": [
+          { "texto": "Costa Rica" },
+          { "texto": "Italia" },
+          { "texto": "Nicaragua" },
+          { "texto": "Francia" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "Donde se encuentra la Sagrada Familia",
+        "respuestas": [
+          { "texto": "Ciudad de Mexico" },
+          { "texto": "Paris" },
+          { "texto": "Roma" },
+          { "texto": "Barcelona" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Cual es el oceano mas grande",
+        "respuestas": [
+          { "texto": "Oceano Glaciar Artico" },
+          { "texto": "Oceano Atlantico" },
+          { "texto": "Oceano Pacifico" },
+          { "texto": "Oceano Indico" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Quien es conocido mundialmente como el padre del psicoanalisis",
+        "respuestas": [
+          { "texto": "Michael Scott" },
+          { "texto": "Scott Stossel" },
+          { "texto": "Sigmund Freud" },
+          { "texto": "George Hanks" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Cual es el producto de cultivo principal en Guatemala",
+        "respuestas": [
+          { "texto": "Arroz" },
+          { "texto": "Cafe" },
+          { "texto": "Frijoles" },
+          { "texto": "Papa" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Cual es el pais mas grande del mundo",
+        "respuestas": [
+          { "texto": "Rusia" },
+          { "texto": "Brasil" },
+          { "texto": "Estados Unidos" },
+          { "texto": "Groenlandia" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "En que año comienza la segunda guerra mundial",
+        "respuestas": [
+          { "texto": "1934" },
+          { "texto": "1917" },
+          { "texto": "1939" },
+          { "texto": "1940" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Que planeta es conocido en el sistema solar como el gigante gaseoso",
+        "respuestas": [
+          { "texto": "Neptuno" },
+          { "texto": "Jupiter" },
+          { "texto": "Venus" },
+          { "texto": "Urano" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Cual es la moneda de Reino Unido",
+        "respuestas": [
+          { "texto": "Libra" },
+          { "texto": "Dolar UK" },
+          { "texto": "Dolas US" },
+          { "texto": "Rand" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "En que parte del cuerpo se produce la insulina",
+        "respuestas": [
+          { "texto": "Higado" },
+          { "texto": "Riñones" },
+          { "texto": "Prostata" },
+          { "texto": "Pancreas" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Que rama de la biologia se especializa en el estudio de los animales",
+        "respuestas": [
+          { "texto": "Froologia" },
+          { "texto": "Pancologia" },
+          { "texto": "Zoologia" },
+          { "texto": "Masologia" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "Cual es el animal mas rapido del mundo",
+        "respuestas": [
+          { "texto": "Guepardo" },
+          { "texto": "Pantera Negra" },
+          { "texto": "Antilope" },
+          { "texto": "Aguila" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "A que pais pertenecen los cariocas",
+        "respuestas": [
+          { "texto": "Caracas" },
+          { "texto": "Ruanda" },
+          { "texto": "Uganda" },
+          { "texto": "Brasil" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "En que pais se encuentra el Taj Mahal",
+        "respuestas": [
+          { "texto": "Dubai" },
+          { "texto": "India" },
+          { "texto": "Jordania" },
+          { "texto": "Qatar" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Cual es el nombre de la lengua oficial de China",
+        "respuestas": [
+          { "texto": "Chino" },
+          { "texto": "Taiwanes" },
+          { "texto": "Cantones" },
+          { "texto": "Mandarin" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Como se llama la estacion espacial rusa",
+        "respuestas": [
+          { "texto": "Pietrov" },
+          { "texto": "Mir" },
+          { "texto": "Putin" },
+          { "texto": "Gietrova" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  }
+]
