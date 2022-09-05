@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PantallaPrincipal.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: e24355889e2b32a44b5751de413ccf6c
+  - enabled: 1
+    path: Assets/Scenes/Gane.unity
+    guid: 535fbf26133445a44857b0bc8ab7dbf9
+  - enabled: 1
+    path: Assets/Scenes/Perdida.unity
+    guid: fc816579a9eaf554b9d439d4023cd801
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 2647384682c15bb4ca716c20ae655f40
   m_configObjects: {}
